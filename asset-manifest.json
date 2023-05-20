@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AntonyJudeShaman/water/static/css/main.0e06f755.css",
+    "main.js": "/AntonyJudeShaman/water/static/js/main.bcd914d1.js",
+    "static/js/787.69ec417b.chunk.js": "/AntonyJudeShaman/water/static/js/787.69ec417b.chunk.js",
+    "index.html": "/AntonyJudeShaman/water/index.html",
+    "main.0e06f755.css.map": "/AntonyJudeShaman/water/static/css/main.0e06f755.css.map",
+    "main.bcd914d1.js.map": "/AntonyJudeShaman/water/static/js/main.bcd914d1.js.map",
+    "787.69ec417b.chunk.js.map": "/AntonyJudeShaman/water/static/js/787.69ec417b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e06f755.css",
+    "static/js/main.bcd914d1.js"
+  ]
+}
